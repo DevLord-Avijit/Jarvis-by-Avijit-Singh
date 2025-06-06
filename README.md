@@ -1,2 +1,2 @@
 # Jarvis-by-Avijit-Singh
-Here is a fantastic A.I. named Jarvis
+Here is a fantastic Chat Bot named Jarvis
